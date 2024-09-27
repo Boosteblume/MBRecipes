@@ -50,7 +50,7 @@ _the sizes below are german sizes_
     - Pour the Apple-cinnamon mixture over the filling.
     - Put it back in the fridge asap.
 
-5. **Bake**:
+5. **Let it rest**:
     - Wait for a couple of hours (I waited over night.)
 
 6. **Serve**: Remove the cheesecake from the springform pan, slice, and enjoy!
