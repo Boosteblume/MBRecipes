@@ -1,29 +1,28 @@
-# Apple Cinnamon Nob Biscot Cheesecake
+# Raspberry Nob Leibnitz Cheesecake
 This is the recipe for a no-bake american cheesecake with lotus biscoti cake base and an apple-sugar-cinnamon topping.
 
 
 
 ## Ingredients
 _the sizes below are german sizes_
-- 1 Package of Lotus Biscoti
+- 1 Package of Leibnitz Butterkekse
 - 100g Butter
 - a pinch of salt
 - 600g Philladelphia Doppelrahmstufe cream cheese
 - 200g Sour cream (Schmand)
 - 200ml cream
 - 1 teaspoon of vanilla extract
-- 4 apples, peeled and thinly sliced
-- Around 1 tablespoon of cinnamon
-- Around 120g of sugar
-- 12 leafs of gelatin
+- 120g of sugar
+- 9 leafs of gelatin (or just use 2 packs)
+- 2 glasses of fruit spread (aim for the highest percentage of fruit possible, I used 75%) 
 
 ## Instructions
 
-1. **Crush the cookies**: Crush the lotus cookies into very small bits. You can either just beat them or use a Kitchen mixer.
+1. **Crush the cookies**: Crush the Leibnitz cookies into very small bits. You can either just beat them or use a Kitchen mixer.
 
 2. **Mix cookies, butter and salt**: 
     - Melt the 100g of butter.
-    - In a bowl, combine the crushed biscots, melted butter and add salt.
+    - In a bowl, combine the crushed leibnitz cookies, melted butter and add salt.
     - After you thouroughly mixed everything, press the mixture into the bottom of a 26inch (26Zoll) springform pan to form the crust.
     - Wait at least 40 minutes before you continue with the next step.
 
@@ -38,22 +37,16 @@ _the sizes below are german sizes_
     - Pour the filling over the prepared crust.
     - Wait at least 4 hours before you continue.
 
-4. **Prepare Apple Topping**:
-    - Peel and cut the apples into a form of your choice (I choose dices).
-    - Put 40 gramm of butter into a pot add the apple pieces, add 100 gramm of sugar and finally add the table spoon of cinnamon.
-    - Arrange the apple slices on top of the cheesecake filling.
-    - Let it simmer for at least 10min. 
-    - After the apple pieces reached the desired squishnes move them away from the heat.
-    - Start to prepare the last 6 leafes of gelatin. Same procedure as before. (Wait 5min, heat them untill liquid).
+4. **Prepare Topping**:
+    - Pour the glasses of fruit spread into a pot, heat it untill liquid.
+    - Prepare the gelatin as seen above.
     - Mix the gelatin liquid with around 200ml water.
-    - Finally mix the gelating liquid with the cooling apple-cinnanom mixture.
-    - Pour the Apple-cinnamon mixture over the filling.
-    - Put it back in the fridge asap.
+    - Mix the gelatin mix with the fruit spread.
+    - Pour the mixture onto the cheescake.
+    - Back in the fridge and wait. 
+
 
 5. **Let it rest**:
     - Wait for a couple of hours (I waited over night.)
 
 6. **Serve**: Remove the cheesecake from the springform pan, slice, and enjoy!
-
-## Notes
-- I added some gold glitter spray on top to make it extra shiny.
